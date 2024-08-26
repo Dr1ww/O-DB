@@ -3,73 +3,128 @@
       {
         "id": 1,
         "name": "United States",
-        "gold": 45,
-        "silver": 37,
-        "bronze": 32
+        "gold": 40,
+        "silver": 44,
+        "bronze": 42
       },
       {
         "id": 2,
         "name": "China",
-        "gold": 38,
-        "silver": 32,
-        "bronze": 25
+        "gold": 40,
+        "silver": 27,
+        "bronze": 24
       },
       {
         "id": 3,
-        "name": "France",
-        "gold": 30,
-        "silver": 28,
-        "bronze": 35
+        "name": "Japan",
+        "gold": 20,
+        "silver": 12,
+        "bronze": 13
       },
       {
         "id": 4,
-        "name": "United Kingdom",
-        "gold": 29,
-        "silver": 25,
-        "bronze": 27
+        "name": "Australia",
+        "gold": 18,
+        "silver": 19,
+        "bronze": 16
       },
       {
         "id": 5,
-        "name": "Germany",
-        "gold": 26,
-        "silver": 22,
-        "bronze": 19
-      },
-      {
-        "id": 6,
-        "name": "Japan",
-        "gold": 24,
-        "silver": 20,
-        "bronze": 18
-      },
-      {
-        "id": 7,
-        "name": "Australia",
-        "gold": 21,
-        "silver": 18,
+        "name": "France",
+        "gold": 16,
+        "silver": 26,
         "bronze": 22
       },
       {
+        "id": 6,
+        "name": "Netherlands",
+        "gold": 15,
+        "silver": 7,
+        "bronze": 12
+      },
+      {
+        "id": 7,
+        "name": "Great Britain",
+        "gold": 14,
+        "silver": 22,
+        "bronze": 29
+      },
+      {
         "id": 8,
-        "name": "Canada",
-        "gold": 19,
-        "silver": 17,
-        "bronze": 20
+        "name": "South Korea",
+        "gold": 13,
+        "silver": 9,
+        "bronze": 10
       },
       {
         "id": 9,
         "name": "Italy",
-        "gold": 17,
-        "silver": 15,
-        "bronze": 18
+        "gold": 12,
+        "silver": 13,
+        "bronze": 15
       },
       {
         "id": 10,
-        "name": "South Korea",
-        "gold": 15,
-        "silver": 12,
-        "bronze": 14
+        "name": "Germany",
+        "gold": 12,
+        "silver": 13,
+        "bronze": 8
+      },
+      {
+        "id": 11,
+        "name": "New Zealand",
+        "gold": 10,
+        "silver": 7,
+        "bronze": 3
+      },
+      {
+        "id": 12,
+        "name": "Canada",
+        "gold": 9,
+        "silver": 7,
+        "bronze": 11
+      },
+      {
+        "id": 13,
+        "name": "Uzbekistan",
+        "gold": 8,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "id": 14,
+        "name": "Hungary",
+        "gold": 6,
+        "silver": 7,
+        "bronze": 6
+      },
+      {
+        "id": 15,
+        "name": "Spain",
+        "gold": 5,
+        "silver": 4,
+        "bronze": 9
+      },
+      {
+        "id": 16,
+        "name": "Sweden",
+        "gold": 4,
+        "silver": 4,
+        "bronze": 3
+      },
+      {
+        "id": 17,
+        "name": "Kenya",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 5
+      },
+      {
+        "id": 18,
+        "name": "Norway",
+        "gold": 4,
+        "silver": 1,
+        "bronze": 1
       }
     ]
-  }
-  
+}
