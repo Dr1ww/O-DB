@@ -6,7 +6,8 @@
         "gold": 40,
         "silver": 44,
         "bronze": 42,
-        "total": 126
+        "total": 126,
+        "flag": "https://flagpedia.net/data/flags/h80/us.png"
       },
       {
         "id": 2,
@@ -14,7 +15,8 @@
         "gold": 40,
         "silver": 27,
         "bronze": 24,
-        "total": 91
+        "total": 91,
+        "flag": "https://flagpedia.net/data/flags/h80/cn.png"
       },
       {
         "id": 3,
@@ -22,7 +24,8 @@
         "gold": 20,
         "silver": 12,
         "bronze": 13,
-        "total": 45
+        "total": 45,
+        "flag": "https://flagpedia.net/data/flags/h80/jp.png"
       },
       {
         "id": 4,
@@ -30,7 +33,8 @@
         "gold": 18,
         "silver": 19,
         "bronze": 16,
-        "total": 53
+        "total": 53,
+        "flag": "https://flagpedia.net/data/flags/h80/au.png"
       },
       {
         "id": 5,
@@ -38,7 +42,8 @@
         "gold": 16,
         "silver": 26,
         "bronze": 22,
-        "total": 64
+        "total": 64,
+        "flag": "https://flagpedia.net/data/flags/h80/fr.png"
       },
       {
         "id": 6,
@@ -46,7 +51,8 @@
         "gold": 15,
         "silver": 7,
         "bronze": 12,
-        "total": 34
+        "total": 34,
+        "flag": "https://flagpedia.net/data/flags/h80/nl.png"
       },
       {
         "id": 7,
@@ -54,7 +60,8 @@
         "gold": 14,
         "silver": 22,
         "bronze": 29,
-        "total": 65
+        "total": 65,
+        "flag": "https://flagpedia.net/data/flags/h80/gb.png"
       },
       {
         "id": 8,
@@ -62,7 +69,8 @@
         "gold": 13,
         "silver": 9,
         "bronze": 10,
-        "total": 32
+        "total": 32,
+        "flag": "https://flagpedia.net/data/flags/h80/kr.png"
       },
       {
         "id": 9,
@@ -70,7 +78,8 @@
         "gold": 12,
         "silver": 13,
         "bronze": 15,
-        "total": 40
+        "total": 40,
+        "flag": "https://flagpedia.net/data/flags/h80/it.png"
       },
       {
         "id": 10,
@@ -78,7 +87,8 @@
         "gold": 12,
         "silver": 13,
         "bronze": 8,
-        "total": 33
+        "total": 33,
+        "flag": "https://flagpedia.net/data/flags/h80/de.png"
       },
       {
         "id": 11,
@@ -86,7 +96,8 @@
         "gold": 10,
         "silver": 7,
         "bronze": 3,
-        "total": 20
+        "total": 20,
+        "flag": "https://flagpedia.net/data/flags/h80/nz.png"
       },
       {
         "id": 12,
@@ -94,7 +105,8 @@
         "gold": 9,
         "silver": 7,
         "bronze": 11,
-        "total": 27
+        "total": 27,
+        "flag": "https://flagpedia.net/data/flags/h80/ca.png"
       },
       {
         "id": 13,
@@ -102,7 +114,8 @@
         "gold": 8,
         "silver": 2,
         "bronze": 3,
-        "total": 13
+        "total": 13,
+        "flag": "https://flagpedia.net/data/flags/h80/uz.png"
       },
       {
         "id": 14,
@@ -110,7 +123,8 @@
         "gold": 6,
         "silver": 7,
         "bronze": 6,
-        "total": 19
+        "total": 19,
+        "flag": "https://flagpedia.net/data/flags/h80/hu.png"
       },
       {
         "id": 15,
@@ -118,7 +132,8 @@
         "gold": 5,
         "silver": 4,
         "bronze": 9,
-        "total": 18
+        "total": 18,
+        "flag": "https://flagpedia.net/data/flags/h80/es.png"
       },
       {
         "id": 16,
@@ -126,7 +141,8 @@
         "gold": 4,
         "silver": 4,
         "bronze": 3,
-        "total": 11
+        "total": 11,
+        "flag": "https://flagpedia.net/data/flags/h80/se.png"
       },
       {
         "id": 17,
@@ -134,7 +150,8 @@
         "gold": 4,
         "silver": 2,
         "bronze": 5,
-        "total": 11
+        "total": 11,
+        "flag": "https://flagpedia.net/data/flags/h80/ke.png"
       },
       {
         "id": 18,
@@ -142,8 +159,10 @@
         "gold": 4,
         "silver": 1,
         "bronze": 1,
-        "total": 6
+        "total": 6,
+        "flag": "https://flagpedia.net/data/flags/h80/no.png"
       }
     ]
   }
+  
   
