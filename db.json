@@ -252,14 +252,6 @@
               "Norway is located in Northern Europe and is known for its fjords.",
               "It has a high standard of living and a strong emphasis on environmental sustainability.",
               "Norway is famous for its midnight sun and northern lights."
-            ],
-            "sports": [
-              {"name": "Athletics", "gold": 2, "silver": 1, "bronze": 0},
-              {"name": "Beach Volleyball", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Handball", "gold": 1, "silver": 0, "bronze": 0},
-              {"name": "Sailing", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0},
-              {"name": "Wrestling", "gold": 0, "silver": 0, "bronze": 1}
             ]
           },
           {
@@ -274,12 +266,6 @@
               "Ireland has a rich cultural heritage and is known for its green landscapes.",
               "The country excels in sports like boxing and rowing.",
               "It has a growing presence in swimming and gymnastics."
-            ],
-            "sports": [
-              {"name": "Artistic Gymnastics", "gold": 1, "silver": 0, "bronze": 0},
-              {"name": "Boxing", "gold": 1, "silver": 0, "bronze": 0},
-              {"name": "Rowing", "gold": 1, "silver": 0, "bronze": 1},
-              {"name": "Swimming", "gold": 1, "silver": 0, "bronze": 2}
             ]
           },
           {
@@ -294,19 +280,6 @@
               "Brazil is known for its vibrant culture and beautiful landscapes.",
               "The country has shown strong performances in sports like beach volleyball and football.",
               "Brazil's athletes also compete strongly in gymnastics and judo."
-            ],
-            "sports": [
-              {"name": "Artistic Gymnastics", "gold": 1, "silver": 2, "bronze": 1},
-              {"name": "Athletics", "gold": 0, "silver": 1, "bronze": 1},
-              {"name": "Beach Volleyball", "gold": 1, "silver": 0, "bronze": 0},
-              {"name": "Boxing", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Canoe Sprint", "gold": 0, "silver": 1, "bronze": 0},
-              {"name": "Football", "gold": 0, "silver": 1, "bronze": 0},
-              {"name": "Judo", "gold": 1, "silver": 1, "bronze": 2},
-              {"name": "Skateboarding", "gold": 0, "silver": 0, "bronze": 2},
-              {"name": "Surfing", "gold": 0, "silver": 1, "bronze": 1},
-              {"name": "Taekwondo", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Volleyball", "gold": 0, "silver": 0, "bronze": 1}
             ]
           },
           {
@@ -321,10 +294,6 @@
               "Iran has a strong tradition in wrestling and taekwondo.",
               "The country has made significant strides in other sports, including weightlifting.",
               "Iranian athletes are known for their competitive spirit and dedication."
-            ],
-            "sports": [
-              {"name": "Taekwondo", "gold": 1, "silver": 2, "bronze": 1},
-              {"name": "Wrestling", "gold": 2, "silver": 4, "bronze": 2}
             ]
           },
           {
@@ -339,15 +308,6 @@
               "Ukraine has a strong presence in gymnastics and athletics.",
               "The country is also competitive in sports like boxing and fencing.",
               "Ukraine's athletes have shown resilience and skill in various disciplines."
-            ],
-            "sports": [
-              {"name": "Artistic Gymnastics", "gold": 0, "silver": 1, "bronze": 0},
-              {"name": "Athletics", "gold": 1, "silver": 0, "bronze": 2},
-              {"name": "Boxing", "gold": 1, "silver": 0, "bronze": 0},
-              {"name": "Canoe Sprint", "gold": 0, "silver": 1, "bronze": 0},
-              {"name": "Fencing", "gold": 1, "silver": 0, "bronze": 1},
-              {"name": "Shooting", "gold": 0, "silver": 1, "bronze": 0},
-              {"name": "Wrestling", "gold": 0, "silver": 2, "bronze": 1}
             ]
           },
           {
@@ -362,12 +322,6 @@
               "Romania has a rich history in gymnastics and rowing.",
               "The country also performs well in swimming and weightlifting.",
               "Romanian athletes are known for their competitive edge and dedication."
-            ],
-            "sports": [
-              {"name": "Artistic Gymnastics", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Rowing", "gold": 2, "silver": 3, "bronze": 0},
-              {"name": "Swimming", "gold": 1, "silver": 0, "bronze": 1},
-              {"name": "Weightlifting", "gold": 0, "silver": 1, "bronze": 0}
             ]
           },
           {
@@ -382,12 +336,6 @@
               "Georgia excels in wrestling and judo.",
               "The country also has notable performances in weightlifting.",
               "Georgia's athletes demonstrate strong skills and competitive spirit."
-            ],
-            "sports": [
-              {"name": "Boxing", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Judo", "gold": 1, "silver": 2, "bronze": 0},
-              {"name": "Weightlifting", "gold": 1, "silver": 0, "bronze": 0},
-              {"name": "Wrestling", "gold": 1, "silver": 1, "bronze": 0}
             ]
           },
           {
@@ -402,13 +350,6 @@
               "Belgium has shown strong performances in cycling and athletics.",
               "The country also competes well in sports like judo and taekwondo.",
               "Belgian athletes are known for their diverse skills and competitiveness."
-            ],
-            "sports": [
-              {"name": "Athletics", "gold": 1, "silver": 1, "bronze": 1},
-              {"name": "Cycling Road", "gold": 2, "silver": 0, "bronze": 2},
-              {"name": "Cycling Track", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Judo", "gold": 0, "silver": 0, "bronze": 1},
-              {"name": "Taekwondo", "gold": 0, "silver": 0, "bronze": 1}
             ]
           }
         ]
