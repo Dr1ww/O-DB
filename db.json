@@ -1,262 +1,256 @@
 {
-    "countries": [
-      {
-        "id": 1,
-        "name": "United States",
-        "gold": 40,
-        "silver": 44,
-        "bronze": 42,
-        "total": 126,
-        "flag": "https://flagpedia.net/data/flags/h80/us.png",
-        "info": [
-          "The United States is a country primarily located in North America.",
-          "It is known for its diverse culture and significant global influence.",
-          "The U.S. is the third-largest country in the world by land area."
-        ]
-      },
-      {
-        "id": 2,
-        "name": "China",
-        "gold": 40,
-        "silver": 27,
-        "bronze": 24,
-        "total": 91,
-        "flag": "https://flagpedia.net/data/flags/h80/cn.png",
-        "info": [
-          "China is the world's most populous country, located in East Asia.",
-          "It has a rich history that dates back thousands of years.",
-          "China is known for its cultural heritage, including the Great Wall."
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Japan",
-        "gold": 20,
-        "silver": 12,
-        "bronze": 13,
-        "total": 45,
-        "flag": "https://flagpedia.net/data/flags/h80/jp.png",
-        "info": [
-          "Japan is an island country located in East Asia.",
-          "It is known for its technological advancements and traditional culture.",
-          "Japan has a rich heritage with landmarks like Mount Fuji and historic temples."
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Australia",
-        "gold": 18,
-        "silver": 19,
-        "bronze": 16,
-        "total": 53,
-        "flag": "https://flagpedia.net/data/flags/h80/au.png",
-        "info": [
-          "Australia is both a country and a continent located in the Southern Hemisphere.",
-          "It is known for its natural landmarks, such as the Great Barrier Reef.",
-          "Australia has a diverse climate and is famous for its unique wildlife."
-        ]
-      },
-      {
-        "id": 5,
-        "name": "France",
-        "gold": 16,
-        "silver": 26,
-        "bronze": 22,
-        "total": 64,
-        "flag": "https://flagpedia.net/data/flags/h80/fr.png",
-        "info": [
-          "France is located in Western Europe and is known for its rich history.",
-          "It is famous for its cuisine, fashion, and landmarks like the Eiffel Tower.",
-          "France has a diverse landscape ranging from beaches to mountains."
-        ]
-      },
-      {
-        "id": 6,
-        "name": "Netherlands",
-        "gold": 15,
-        "silver": 7,
-        "bronze": 12,
-        "total": 34,
-        "flag": "https://flagpedia.net/data/flags/h80/nl.png",
-        "info": [
-          "The Netherlands is located in Northwestern Europe, known for its flat landscape.",
-          "It is famous for its windmills, tulip fields, and cycling routes.",
-          "Amsterdam, the capital city, is renowned for its canals and cultural heritage."
-        ]
-      },
-      {
-        "id": 7,
-        "name": "Great Britain",
-        "gold": 14,
-        "silver": 22,
-        "bronze": 29,
-        "total": 65,
-        "flag": "https://flagpedia.net/data/flags/h80/gb.png",
-        "info": [
-          "Great Britain includes England, Scotland, and Wales, and is located in the British Isles.",
-          "It has a rich cultural history, including landmarks such as the Tower of London.",
-          "Great Britain is known for its contributions to literature, science, and industry."
-        ]
-      },
-      {
-        "id": 8,
-        "name": "South Korea",
-        "gold": 13,
-        "silver": 9,
-        "bronze": 10,
-        "total": 32,
-        "flag": "https://flagpedia.net/data/flags/h80/kr.png",
-        "info": [
-          "South Korea is a country located on the southern part of the Korean Peninsula.",
-          "It is known for its advanced technology and vibrant pop culture.",
-          "South Korea has a rich history, including ancient palaces and modern cities."
-        ]
-      },
-      {
-        "id": 9,
-        "name": "Italy",
-        "gold": 12,
-        "silver": 13,
-        "bronze": 15,
-        "total": 40,
-        "flag": "https://flagpedia.net/data/flags/h80/it.png",
-        "info": [
-          "Italy is a European country known for its rich history and culture.",
-          "It is famous for its art, architecture, and culinary traditions.",
-          "Landmarks include the Colosseum in Rome and the canals of Venice."
-        ]
-      },
-      {
-        "id": 10,
-        "name": "Germany",
-        "gold": 12,
-        "silver": 13,
-        "bronze": 8,
-        "total": 33,
-        "flag": "https://flagpedia.net/data/flags/h80/de.png",
-        "info": [
-          "Germany is located in Central Europe and is known for its economic strength.",
-          "It has a rich history, including contributions to philosophy and science.",
-          "Germany is famous for its festivals, such as Oktoberfest, and its scenic landscapes."
-        ]
-      },
-      {
-        "id": 11,
-        "name": "New Zealand",
-        "gold": 10,
-        "silver": 7,
-        "bronze": 3,
-        "total": 20,
-        "flag": "https://flagpedia.net/data/flags/h80/nz.png",
-        "info": [
-          "New Zealand is an island country located in the southwestern Pacific Ocean.",
-          "It is known for its stunning natural scenery, including mountains and beaches.",
-          "New Zealand has a rich indigenous culture and is famous for its outdoor activities."
-        ]
-      },
-      {
-        "id": 12,
-        "name": "Canada",
-        "gold": 9,
-        "silver": 7,
-        "bronze": 11,
-        "total": 27,
-        "flag": "https://flagpedia.net/data/flags/h80/ca.png",
-        "info": [
-          "Canada is the second-largest country in the world by land area.",
-          "It is known for its diverse landscapes, from mountains to lakes.",
-          "Canada has a multicultural society and is famous for its friendly people."
-        ]
-      },
-      {
-        "id": 13,
-        "name": "Uzbekistan",
-        "gold": 8,
-        "silver": 2,
-        "bronze": 3,
-        "total": 13,
-        "flag": "https://flagpedia.net/data/flags/h80/uz.png",
-        "info": [
-          "Uzbekistan is a landlocked country in Central Asia.",
-          "It is known for its historical Silk Road cities, such as Samarkand and Bukhara.",
-          "Uzbekistan has a rich cultural heritage and diverse landscapes."
-        ]
-      },
-      {
-        "id": 14,
-        "name": "Hungary",
-        "gold": 6,
-        "silver": 7,
-        "bronze": 6,
-        "total": 19,
-        "flag": "https://flagpedia.net/data/flags/h80/hu.png",
-        "info": [
-          "Hungary is a landlocked country in Central Europe.",
-          "It is known for its thermal baths and historic cities, such as Budapest.",
-          "Hungary has a rich cultural tradition in music and cuisine."
-        ]
-      },
-      {
-        "id": 15,
-        "name": "Spain",
-        "gold": 5,
-        "silver": 4,
-        "bronze": 9,
-        "total": 18,
-        "flag": "https://flagpedia.net/data/flags/h80/es.png",
-        "info": [
-          "Spain is a country located in Southwestern Europe on the Iberian Peninsula.",
-          "It is known for its diverse culture, including flamenco music and dance.",
-          "Spain has a rich history, including landmarks such as the Alhambra and Sagrada Familia."
-        ]
-      },
-      {
-        "id": 16,
-        "name": "Sweden",
-        "gold": 4,
-        "silver": 4,
-        "bronze": 3,
-        "total": 11,
-        "flag": "https://flagpedia.net/data/flags/h80/se.png",
-        "info": [
-          "Sweden is a Scandinavian country known for its high quality of life.",
-          "It has a rich cultural heritage and is known for its innovations in technology.",
-          "Sweden is famous for its beautiful landscapes, including forests and archipelagos."
-        ]
-      },
-      {
-        "id": 17,
-        "name": "Kenya",
-        "gold": 4,
-        "silver": 2,
-        "bronze": 5,
-        "total": 11,
-        "flag": "https://flagpedia.net/data/flags/h80/ke.png",
-        "info": [
-          "Kenya is located in East Africa and is known for its diverse wildlife.",
-          "It has beautiful landscapes, including savannas and mountain ranges.",
-          "Kenya is famous for its rich cultural heritage and vibrant traditions."
-        ]
-      },
-      {
-        "countries": [
-          {
-            "id": 18,
-            "name": "Norway",
-            "gold": 4,
-            "silver": 1,
-            "bronze": 1,
-            "total": 6,
-            "flag": "https://flagpedia.net/data/flags/h80/no.png",
-            "info": [
-              "Norway is located in Northern Europe and is known for its fjords.",
-              "It has a high standard of living and a strong emphasis on environmental sustainability.",
-              "Norway is famous for its midnight sun and northern lights."
-            ]
-          }
-        ]
-      }
-      
-    ]
-  }
-  
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States",
+      "gold": 40,
+      "silver": 44,
+      "bronze": 42,
+      "total": 126,
+      "flag": "https://flagpedia.net/data/flags/h80/us.png",
+      "info": [
+        "The United States is a country primarily located in North America.",
+        "It is known for its diverse culture and significant global influence.",
+        "The U.S. is the third-largest country in the world by land area."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "China",
+      "gold": 40,
+      "silver": 27,
+      "bronze": 24,
+      "total": 91,
+      "flag": "https://flagpedia.net/data/flags/h80/cn.png",
+      "info": [
+        "China is the world's most populous country, located in East Asia.",
+        "It has a rich history that dates back thousands of years.",
+        "China is known for its cultural heritage, including the Great Wall."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Japan",
+      "gold": 20,
+      "silver": 12,
+      "bronze": 13,
+      "total": 45,
+      "flag": "https://flagpedia.net/data/flags/h80/jp.png",
+      "info": [
+        "Japan is an island country located in East Asia.",
+        "It is known for its technological advancements and traditional culture.",
+        "Japan has a rich heritage with landmarks like Mount Fuji and historic temples."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Australia",
+      "gold": 18,
+      "silver": 19,
+      "bronze": 16,
+      "total": 53,
+      "flag": "https://flagpedia.net/data/flags/h80/au.png",
+      "info": [
+        "Australia is both a country and a continent located in the Southern Hemisphere.",
+        "It is known for its natural landmarks, such as the Great Barrier Reef.",
+        "Australia has a diverse climate and is famous for its unique wildlife."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "France",
+      "gold": 16,
+      "silver": 26,
+      "bronze": 22,
+      "total": 64,
+      "flag": "https://flagpedia.net/data/flags/h80/fr.png",
+      "info": [
+        "France is located in Western Europe and is known for its rich history.",
+        "It is famous for its cuisine, fashion, and landmarks like the Eiffel Tower.",
+        "France has a diverse landscape ranging from beaches to mountains."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Netherlands",
+      "gold": 15,
+      "silver": 7,
+      "bronze": 12,
+      "total": 34,
+      "flag": "https://flagpedia.net/data/flags/h80/nl.png",
+      "info": [
+        "The Netherlands is located in Northwestern Europe, known for its flat landscape.",
+        "It is famous for its windmills, tulip fields, and cycling routes.",
+        "Amsterdam, the capital city, is renowned for its canals and cultural heritage."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Great Britain",
+      "gold": 14,
+      "silver": 22,
+      "bronze": 29,
+      "total": 65,
+      "flag": "https://flagpedia.net/data/flags/h80/gb.png",
+      "info": [
+        "Great Britain includes England, Scotland, and Wales, and is located in the British Isles.",
+        "It has a rich cultural history, including landmarks such as the Tower of London.",
+        "Great Britain is known for its contributions to literature, science, and industry."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "South Korea",
+      "gold": 13,
+      "silver": 9,
+      "bronze": 10,
+      "total": 32,
+      "flag": "https://flagpedia.net/data/flags/h80/kr.png",
+      "info": [
+        "South Korea is a country located on the southern part of the Korean Peninsula.",
+        "It is known for its advanced technology and vibrant pop culture.",
+        "South Korea has a rich history, including ancient palaces and modern cities."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Italy",
+      "gold": 12,
+      "silver": 13,
+      "bronze": 15,
+      "total": 40,
+      "flag": "https://flagpedia.net/data/flags/h80/it.png",
+      "info": [
+        "Italy is a European country known for its rich history and culture.",
+        "It is famous for its art, architecture, and culinary traditions.",
+        "Landmarks include the Colosseum in Rome and the canals of Venice."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Germany",
+      "gold": 12,
+      "silver": 13,
+      "bronze": 8,
+      "total": 33,
+      "flag": "https://flagpedia.net/data/flags/h80/de.png",
+      "info": [
+        "Germany is located in Central Europe and is known for its economic strength.",
+        "It has a rich history, including contributions to philosophy and science.",
+        "Germany is famous for its festivals, such as Oktoberfest, and its scenic landscapes."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "New Zealand",
+      "gold": 10,
+      "silver": 7,
+      "bronze": 3,
+      "total": 20,
+      "flag": "https://flagpedia.net/data/flags/h80/nz.png",
+      "info": [
+        "New Zealand is an island country located in the southwestern Pacific Ocean.",
+        "It is known for its stunning natural scenery, including mountains and beaches.",
+        "New Zealand has a rich indigenous culture and is famous for its outdoor activities."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Canada",
+      "gold": 9,
+      "silver": 7,
+      "bronze": 11,
+      "total": 27,
+      "flag": "https://flagpedia.net/data/flags/h80/ca.png",
+      "info": [
+        "Canada is the second-largest country in the world by land area.",
+        "It is known for its diverse landscapes, from mountains to lakes.",
+        "Canada has a multicultural society and is famous for its friendly people."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Uzbekistan",
+      "gold": 8,
+      "silver": 2,
+      "bronze": 3,
+      "total": 13,
+      "flag": "https://flagpedia.net/data/flags/h80/uz.png",
+      "info": [
+        "Uzbekistan is a landlocked country in Central Asia.",
+        "It is known for its historical Silk Road cities, such as Samarkand and Bukhara.",
+        "Uzbekistan has a rich cultural heritage and diverse landscapes."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hungary",
+      "gold": 6,
+      "silver": 7,
+      "bronze": 6,
+      "total": 19,
+      "flag": "https://flagpedia.net/data/flags/h80/hu.png",
+      "info": [
+        "Hungary is a landlocked country in Central Europe.",
+        "It is known for its thermal baths and historic cities, such as Budapest.",
+        "Hungary has a rich cultural tradition in music and cuisine."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Spain",
+      "gold": 5,
+      "silver": 4,
+      "bronze": 9,
+      "total": 18,
+      "flag": "https://flagpedia.net/data/flags/h80/es.png",
+      "info": [
+        "Spain is a country located in Southwestern Europe on the Iberian Peninsula.",
+        "It is known for its diverse culture, including flamenco music and dance.",
+        "Spain has a rich history, including landmarks such as the Alhambra and Sagrada Familia."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Sweden",
+      "gold": 4,
+      "silver": 4,
+      "bronze": 3,
+      "total": 11,
+      "flag": "https://flagpedia.net/data/flags/h80/se.png",
+      "info": [
+        "Sweden is a Scandinavian country known for its high quality of life.",
+        "It has a rich cultural heritage and is known for its innovations in technology.",
+        "Sweden is famous for its beautiful landscapes, including forests and archipelagos."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Kenya",
+      "gold": 4,
+      "silver": 2,
+      "bronze": 5,
+      "total": 11,
+      "flag": "https://flagpedia.net/data/flags/h80/ke.png",
+      "info": [
+        "Kenya is located in East Africa and is known for its diverse wildlife.",
+        "It has beautiful landscapes, including savannas and mountain ranges.",
+        "Kenya is famous for its rich cultural heritage and vibrant traditions."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Norway",
+      "gold": 4,
+      "silver": 1,
+      "bronze": 1,
+      "total": 6,
+      "flag": "https://flagpedia.net/data/flags/h80/no.png",
+      "info": [
+        "Norway is located in Northern Europe and is known for its fjords.",
+        "It has a high standard of living and a strong emphasis on environmental sustainability.",
+        "Norway is famous for its midnight sun and northern lights."
+      ]
+    }
+  ]
+}
