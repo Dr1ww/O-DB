@@ -251,6 +251,20 @@
         "It has a high standard of living and a strong emphasis on environmental sustainability.",
         "Norway is famous for its midnight sun and northern lights."
       ]
+    },
+    {
+      "id": 19,
+      "name": "Ireland",
+      "gold": 4,
+      "silver": 0,
+      "bronze": 3,
+      "total": 7,
+      "flag": "https://flagpedia.net/data/flags/h80/ie.png",
+      "info": [
+        "Ireland has a rich cultural heritage and is known for its green landscapes.",
+        "The country excels in sports like boxing and rowing.",
+        "It has a growing presence in swimming and gymnastics."
+      ]
     }
   ]
 }
